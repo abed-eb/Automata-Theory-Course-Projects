@@ -1,0 +1,5 @@
+6
+<S> -> <S><A><S><C> | <S>ab | bc | cd
+<B> -> <C>g |f
+<A> -> ac<B> | c
+<C> -> <B>g |d

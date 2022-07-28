@@ -1,0 +1,6 @@
+6
+<START> -> <SUBJECT><DISTANCE><VERB><DISTANCE><OBJECTS><TEST>
+<SUBJECT> -> i|we
+<DISTANCE> ->
+<VERB> -> eat|drink |go
+<OBJECTS> -> <VERB>food|wa<SUBJECT>ter|lambda
